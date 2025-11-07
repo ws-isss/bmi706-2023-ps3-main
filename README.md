@@ -1,6 +1,6 @@
 # bmi706-2023-ps3
 
-Hello, world!
+Hello, XuyangSun!
 
 
 ## Requirements
